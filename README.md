@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lucas-sequeira-datarain
+- 👋 Hi, I’m @lucas-sequeira-datarain Analytics/ML/AI Solutions Architect @ dataRain Consulting
 - 👀 I’m interested in TV Series, Games, Hangouts, and so.
 - 🌱 I’m currently learning AWS, ML/AI, Python, Analytics, Databases, and so.
 - 💞️ I’m looking to collaborate on ML projects, POCs, Analytics, and so
